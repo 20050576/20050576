@@ -2,9 +2,9 @@
 - 👀 I’m interested in horror and art
 - 🌱 I’m currently learning Intro to Software Technology
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me 
+- 📫 How to reach me emma.flores5767@g.gcpsk12.org
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I enjoy hanging around with people.
 
 <!---
 20050576/20050576 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
