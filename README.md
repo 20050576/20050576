@@ -12,3 +12,6 @@
 ![Karel Challenges Badge](https://github.com/20050576/20050576/assets/156215932/158d54bf-775b-4a93-8548-304704cfcd38)
 ![User Input Badge](https://github.com/20050576/20050576/assets/156215932/4f03fd12-03b6-4c25-be0a-b8d9d30e0a56)
 ![Graphics Badge](https://github.com/20050576/20050576/assets/156215932/e6e82623-aaf2-4d73-bf4a-811c00184a1a)
+
+[Emma Flores_ Portfolio.pdf](https://github.com/20050576/20050576/files/14024487/Emma.Flores_.Portfolio.pdf)
+[Emma Flores_ Resume.pdf](https://github.com/20050576/20050576/files/14024491/Emma.Flores_.Resume.pdf)
